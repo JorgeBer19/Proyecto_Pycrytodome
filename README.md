@@ -1,4 +1,4 @@
-# Proyecto_# Proyecto de Cifrado y Descifrado con Pycrytodome
+#Proyecto de Cifrado y Descifrado con Pycrytodome
 
 ## Descripción
 Este proyecto permite cifrar y descifrar mensajes de texto utilizando el algoritmo de cifrado simétrico AES en modo EAX. Se genera una clave aleatoria de 16 bytes y un vector de inicialización (IV) para asegurar la seguridad del mensaje. Además, se guardan tanto el mensaje cifrado como el mensaje descifrado en archivos de texto dentro de un directorio llamado `archivos`.
